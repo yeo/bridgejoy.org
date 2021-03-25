@@ -11,3 +11,6 @@ We made small but regular donations to any non profit organizations that aims to
 
 vinh@bridgejoy.org
 
+# Fund
+
+Our fund is sponsored by [hanami.run](https://hanami.run)
